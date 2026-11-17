@@ -93,7 +93,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.TavstalDev:yggraTitle:<version>")
+    implementation("com.github.TavstalDev:yggraParticle:<version>")
 }
 ```
 
@@ -106,7 +106,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.TavstalDev:yggraTitle:<version>'
+    implementation 'com.github.TavstalDev:yggraParticle:<version>'
 }
 ```
 
@@ -123,7 +123,7 @@ Maven:
 <dependencies>
     <dependency>
         <groupId>com.github.TavstalDev</groupId>
-        <artifactId>yggraTitle</artifactId>
+        <artifactId>yggraParticle</artifactId>
         <version>replace-with-version</version>
     </dependency>
 </dependencies>
