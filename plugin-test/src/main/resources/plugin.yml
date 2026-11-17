@@ -1,4 +1,4 @@
-main: io.github.tavstaldev.yggraParticle.test.TestPlugin
+main: com.github.TavstalDev.yggraParticle.test.TestPlugin
 version: '1.0.0'
 api-version: '1.13'
 
