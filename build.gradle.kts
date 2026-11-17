@@ -1,7 +1,7 @@
 plugins {}
 
 allprojects {
-    group = "com.github.TavstalDev.yggraParticle"
+    group = "com.github.TavstalDev"
     version = "0.1.1"
 }
 
